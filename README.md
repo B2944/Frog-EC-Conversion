@@ -5,8 +5,9 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 
  Build Specs: 
+ 
 - Burgundy F13 WKL Frog TKL
-- SwedeEC8X 
+- SwedeEC8X PCB 1.6mm
 - Topre converted Alu 5202 1.2mm plate
 - YMDK Housings
 - KLC Playground MX Sliders
@@ -18,10 +19,9 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 
 
-
-## Build Guide (Needs Pictures*) 
+## Build Guide (Pictures coming soon once I get my prototype 300px*) 
 1. Place the tadpole mounts into the plate. 
-2. Slot the EC Housings and slider assemblies into the plate. 
+2. Click the EC Housings and slider assemblies into the plate. 
 3. Place the domes into the housings. 
 4. Place the conical springs in the domes (make sure non are stacked as this causes issues). 
 6. Place the pcb onto the back of the plate.
@@ -45,7 +45,12 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 > You may upset many from harvesting perfectly good boards, so please do try and look for a Junkforce. :smile_cat:
 
 
+## Getting your own plates manufactured
 
+> [!NOTE]
+> Ordering your own plates can be rather expensive per unit when doing a small order, so I will be hosting a group order soon after these PCBs launch.
+
+- However, if you are sure you want to get your own made then simnply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram.
 
 
 ## Layout Support
@@ -53,20 +58,30 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 ![Layout Support for PCB](https://github.com/user-attachments/assets/720704da-e847-48de-8624-b7edb1ab3a7e)
 
 
+## VIA
 
-## Getting your own plates manufactured
-
-- When looking for a manufacturer, make sure that they offer the threading as topre needs many holes on the plates in order to sandwich the pcb and plate together to ensure good contact. 
-
-
-
-## Firmware
-
+- Whilst waiting for the Firmware to be pushed to the main branch of VIA so the PCB is automatically recognised, you can use this [VIA](https://app-6w4.pages.dev) link.
 - If you find yourself having issues with the firmware, please message me on Discord or open an issue on here.
-- Whilst waiting for the Firmware to be pushed to the main branch of VIA so the PCB is automatically recognised, you can use this [Firmware Link](https://app-6w4.pages.dev)
 
 ## Tasks left to complete 
 - [X] Support all Frog TKL Layouts
 - [ ] Get o-ring cutouts for next batch to allow support of all H87/H88 TKLs 
 - [ ] Increase PCB support for more boards by converting plates to Topre.
 - [ ] Host groupbuy for Frog TKL Plates. DM me on Discord if you would be interested (swede.)
+
+# PCB Design 
+
+- I was heavily inspired after discovering Decoys reddit post on their F12 Frog TKL conversion, however once I contacted them to gain a better understanding of the conversion I realised that there was no readily available EC PCB that supported F13 layouts. This lead to the commissioning of the EC8X and the adjusting of the MX Plate file to convert it to Topre by using CIPs plate generator to calculate the spacings. 
+  
+Each round of PCBs will be inspired by a different vehicle
+
+1. <code>Porsche 944</code>
+   - Limited to 16 units. 15 USB C and 1 JST Variant. This round features a '944' lettering silkscreen above the nav cluster and a complimentary silkscreen on the back of the PCB of the 2.5L inline 4 found in the Porsche 944. The plates were also designed with this in        mind, leaving a cutout above the arrow cluster to view the '944' silkscreen. 
+
+- The PCB is 1.6mm and full configurable in VIA.
+
+
+
+## Sound Test
+
+![soundtest]("Place MP4 File here")
