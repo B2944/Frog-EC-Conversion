@@ -4,7 +4,19 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 ![IMG_2808](https://github.com/user-attachments/assets/9e066c7a-82b2-49ed-8bcd-200b5d8ff9b1)
 
 
- 
+ Build Specs: 
+- Burgundy F13 WKL Frog TKL
+- SwedeEC8X 
+- Topre converted Alu 5202 1.2mm plate
+- YMDK Housings
+- KLC Playground MX Sliders
+- YMDK 2U Assemblies and 7U Assembly 
+- 3mm Silencing Rings
+- Realforce R1 45g Domes
+- Realforce Conical Springs
+- DCX WoB
+
+
 
 
 ## Build Guide (Needs Pictures*) 
@@ -26,6 +38,9 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
   realforce to harvest yourself (preferably broken as to not ruin perfectly good boards). This is also a bonus as it will give you the domes, housing, EC springs and keycaps often at a lower price than the aftermarket options.
 
 
+  - Another optional part would be silencing rings, which result in a much quieter upstroke as the ring dampens the slider when returning to the top of the housing. 
+
+
 > [!NOTE]
 > You may upset many from harvesting perfectly good boards, so please do try and look for a Junkforce. :smile_cat:
 
@@ -39,9 +54,19 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 
 
+## Getting your own plates manufactured
+
+- When looking for a manufacturer, make sure that they offer the threading as topre needs many holes on the plates in order to sandwich the pcb and plate together to ensure good contact. 
+
+
+
+## Firmware
+
+- If you find yourself having issues with the firmware, please message me on Discord or open an issue on here.
+- Whilst waiting for the Firmware to be pushed to the main branch of VIA so the PCB is automatically recognised, you can use this [Firmware Link](https://app-6w4.pages.dev)
 
 ## Tasks left to complete 
-- [X] Design more plates to support more Frog TKL layouts
+- [X] Support all Frog TKL Layouts
 - [ ] Get o-ring cutouts for next batch to allow support of all H87/H88 TKLs 
-- [ ] Support more boards with plate files 
-- [ ] Host groupbuy for Frog TKL Plates. 
+- [ ] Increase PCB support for more boards by converting plates to Topre.
+- [ ] Host groupbuy for Frog TKL Plates. DM me on Discord if you would be interested (swede.)
