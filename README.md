@@ -1,6 +1,6 @@
 # Geonworks Frog TKL EC Conversion
 
-![Topre](Coldtop-Topre-1.jpg)
+![Coldtop-Topre-1](https://github.com/user-attachments/assets/8cde4edb-c7f1-4294-8b89-bf98bfe7e376)
 
 Documentation of the Geonworks Frog TKL EC Conversion. 
 
