@@ -1,6 +1,6 @@
 # Geonworks Frog TKL EC Conversion using the SwedeEC8X
 
-
+![IMG_2808](https://github.com/user-attachments/assets/9e066c7a-82b2-49ed-8bcd-200b5d8ff9b1)
 
 Documentation of the Geonworks Frog TKL EC Conversion. 
 
