@@ -42,7 +42,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 
 > [!NOTE]
-> You may upset many from harvesting perfectly good boards, so please do try and look for a Junkforce. :smile_cat:
+> You may upset a few people when harvesting perfectly good boards, so please do try and look for a Junkforce. :smile_cat:
 
 
 ## Getting your own plates manufactured
