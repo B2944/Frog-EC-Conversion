@@ -7,7 +7,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
  Build Specs: 
  
 - Burgundy F13 WKL Frog TKL
-- SwedeEC8X PCB 1.6mm
+- SwedeEC8X PCB
 - Topre converted Alu 5202 1.2mm plate
 - YMDK Housings
 - KLC Playground MX Sliders
@@ -64,7 +64,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 - If you find yourself having issues with the firmware, please message me on Discord or open an issue on here.
 
 ## Tasks left to complete 
-- [X] Support all Frog TKL Layouts
+- [X] [Support all Frog TKL Layout](https://github.com/B2944/Frog-EC-Conversion/issues/1)
 - [ ] Implement o-ring cutouts for next batch to allow support of all H87/H88 TKLs.
 - [ ] Increase PCB support for more boards by converting plates to Topre.
 - [ ] Host groupbuy for Frog TKL Plates. DM me on Discord if you would be interested (swede.)
