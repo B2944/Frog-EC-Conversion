@@ -65,7 +65,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 ## Tasks left to complete 
 - [X] Support all Frog TKL Layouts
-- [ ] Get o-ring cutouts for next batch to allow support of all H87/H88 TKLs 
+- [ ] Implement o-ring cutouts for next batch to allow support of all H87/H88 TKLs.
 - [ ] Increase PCB support for more boards by converting plates to Topre.
 - [ ] Host groupbuy for Frog TKL Plates. DM me on Discord if you would be interested (swede.)
 
