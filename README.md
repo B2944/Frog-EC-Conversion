@@ -60,7 +60,11 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
    ![spacer](https://github.com/user-attachments/assets/d952f776-e6ce-4dbc-87da-03020e05d7bc)
 
-This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws from above the plate and below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A standoff 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. 
+This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A standoff 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (The plate files currently have a 2.8mm hole size when laser cut, this is fine for this option) 
+
+ - For this method you will need:
+   - M2.5 Threaded Standoff spacers
+   - M2.5 Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
 
 #### <ins>Screw Types</ins>
 
@@ -106,7 +110,7 @@ Each round of PCBs will be inspired by a different vehicle
 
 
 > [!CAUTION]
-> **THIS PCB DOES NOT WORK WITH TKLs WHICH REQUIRE O-RING MOUNTS
+> **This PCB will not work with TKLs which require o-ring cutouts**
 
 ## Sound Test
    
