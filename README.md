@@ -83,7 +83,7 @@ When choosing a screw for an EC conversion, you must take into account the amoun
 
 ## Tasks left to complete 
 - [X] Supporting plates for all Frog TKL Layouts (F12 and F13) 
-- [ ] Implement o-ring cutouts for next batch to allow support of all H87/H88 TKLs.
+- [ ] Implement o-ring cutouts for next batch to allow support of all H87/H88 TKLs. (This may not be possible due to the size of the topre housings)
 - [ ] Increase PCB support for more boards by converting plates to Topre.
 - [ ] Host groupbuy for Frog TKL Plates. DM me on Discord if you would be interested (swede.)
 
@@ -105,6 +105,8 @@ Each round of PCBs will be inspired by a different vehicle
 - This PCB should work with most TKLs, which do not require O-ring cutouts on the PCB for mounting and also use top mount USB C on the PCB, however I hope to put out a more thorough compatibility list soon. This is something that is being looked at for Round 2, if anything changes I will update this repo. 
 
 
+> [!CAUTION]
+> **THIS PCB DOES NOT WORK WITH TKLs WHICH REQUIRE O-RING MOUNTS
 
 ## Sound Test
    
