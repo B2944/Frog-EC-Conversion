@@ -21,7 +21,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 ## Build Guide (Pictures coming soon once I get my prototype 300px*) 
 1. Place the tadpole mounts into the plate (preferably 90A too increase firmness, to prevent the PCB bottoming out. 
-2. Click the 1U and 2U Housings into the plate. Next up is this spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance.
+2. Click the 1U and 2U Housings into the plate. Next up is this spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance, you will also have to cut the housing above with flush cutters to make room for the flipped spacebar housings.
 3. Push the sliders into the 1U Housings. 
 4. Place the domes into the housings. 
 5. Place the conical springs in the domes (make sure non are stacked as this causes issues). (You can gently drop the springs that are stacked onto your desk to get them separate easier)
@@ -48,7 +48,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 > [!NOTE]
 > Ordering your own plates can be rather expensive per unit when doing a small order, so I will be hosting a group order soon after these PCBs launch.
 
-- However, if you are sure you want to get your own made then simply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram. When going down this route you have a few options:
+- However, if you are sure you want to get your own made then simply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram (beware that there are two options, one which uses standard topre stabilisers and one that uses MX stabilisers for the spacebar to avoid the clearance issues found when using the topre stabiliser). When going down this route you have a few options:
 
 1. Get a plate laser cut to reduce costs and tap the threads yourself - this can be quite difficult and be prepared to snap a few taps. You will also have to adjust the plate file to get the correct size holes ready for tapping. 
 
