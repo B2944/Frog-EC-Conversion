@@ -21,7 +21,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 ## Build Guide (Pictures coming soon once I get my prototype 300px*) 
 1. Place the tadpole mounts into the plate (preferably 90A too increase firmness, to prevent the PCB bottoming out. 
-2. Click the 1U and 2U Housings into the plate. Next up is this spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance, you will also have to cut the housing above with flush cutters to make room for the flipped spacebar housings.
+2. Click the 1U and 2U Housings into the plate. Next up is this spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance, you will also have to cut the housing above with flush cutters to make room for the flipped spacebar housings and wire if using a plate with a topre stabiliser cutout. If you opted for the MX plate then you can simply clip in your plate mount stabiliser housings and wire. 
 3. Push the sliders into the 1U Housings. 
 4. Place the domes into the housings. 
 5. Place the conical springs in the domes (make sure non are stacked as this causes issues). (You can gently drop the springs that are stacked onto your desk to get them separate easier)
@@ -54,7 +54,21 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 2. Get a plate manufactured with threaded holes, this will increase the cost but will ensure that the plate is properly threaded to avoid hiccups in the build process.
 
-3. Get a plate laser cut then epoxy some M2.5 brass standoffs into the holes - this may mean that you have to adjust the plate files to meet the sizing for your standoffs. This will also result in you requiring shorter screws. 
+3. Get a plate laser cut then epoxy some M2.5 brass standoffs into the holes - this may mean that you have to adjust the plate files to meet the sizing for your standoffs. This will also result in you requiring shorter screws.
+
+4. You can make use of threaded spaces as shown in the example pic from the plato plate guide.
+
+   ![spacer](https://github.com/user-attachments/assets/d952f776-e6ce-4dbc-87da-03020e05d7bc)
+
+This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws from above the plate and below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A standoff 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. 
+
+#### <ins>Screw Types</ins>
+
+When choosing a screw for an EC conversion, you must take into account the amount of clearance underneath the PCB in the case. For this conversion of the Frog, there is not much room so we must opt for the waferhead/flad head style of screw to maximise clearance to avoid the pcb touching the base of the case. 
+
+![image_2024-08-12_222904910](https://github.com/user-attachments/assets/00f30322-ed59-48dd-8afa-aff914f440a9)
+
+
 
 
 ## Layout Support
@@ -88,10 +102,10 @@ Each round of PCBs will be inspired by a different vehicle
 
 ### <ins>Compatibility</ins>
 
-- This PCB should work with all TKLs, which do not require O-ring cutouts on the PCB for mounting, however I hope to put out a more thorough compatibility list soon. This is something that is being looked at for Round 2, if anything changes I will update this repo. 
+- This PCB should work with most TKLs, which do not require O-ring cutouts on the PCB for mounting and also use top mount USB C on the PCB, however I hope to put out a more thorough compatibility list soon. This is something that is being looked at for Round 2, if anything changes I will update this repo. 
 
 
 
 ## Sound Test
-
-![soundtest]("Place MP4 File here")
+   
+![soundtest]("Place MP3 File here")
