@@ -1,4 +1,4 @@
-# Geonworks Frog TKL EC Conversion using the SwedeEC8X
+## Geonworks Frog TKL EC Conversion using the SwedeEC8X
 Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in stock on [ThoccExchange](https://thoccexchange.com).
 
 ![IMG_2808](https://github.com/user-attachments/assets/9e066c7a-82b2-49ed-8bcd-200b5d8ff9b1)
@@ -65,6 +65,8 @@ This method makes use of a threaded standoff to secure the plate and pcb togethe
  - For this method you will need:
    - M2.5 Threaded Standoff spacers
    - M2.5 Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
+
+5. Get a laser cut plate with a screw hole diameter of 2.8mm, place a 10mm M2.5 waferhead screw through the top of it and through the back of the PCB, on the base of the PCB, place thin M2.5 nuts and tighten. (I will be prototyping this soon once I get a non-threaded laser cut plate (should be around september). 
 
 #### <ins>Screw Types</ins>
 
