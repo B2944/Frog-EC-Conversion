@@ -66,7 +66,9 @@ This method makes use of a threaded standoff to secure the plate and pcb togethe
    - M2.5 Threaded Standoff spacers
    - M2.5 Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
 
-5. Get a laser cut plate with a screw hole diameter of 2.8mm, place a 10mm M2.5 waferhead screw through the top of it and through the back of the PCB, on the base of the PCB, place thin M2.5 nuts and tighten. (I will be prototyping this soon once I get a non-threaded laser cut plate (should be around september). 
+5. Get a plate laser cut then place 10mm M2.5 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2.5 nuts on the back of the PCB.
+- This method is ideal as aluminium threads can be weak so it avoids the risk of stripping the expensive plate. 
+  - This method is also much cheaper than a threaded plate and easier than any of the standoff options. 
 
 #### <ins>Screw Types</ins>
 
