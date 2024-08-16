@@ -48,6 +48,8 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 > [!NOTE]
 > Ordering your own plates can be rather expensive per unit when doing a small order, so I will be hosting a group order soon after these PCBs launch.
 
+![image123123](https://github.com/user-attachments/assets/bb7634ae-6d97-4f5b-9afd-5123a0806f9a)
+
 - However, if you are sure you want to get your own made then simply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram (beware that there are two options, one which uses standard topre stabilisers and one that uses MX stabilisers for the spacebar to avoid the clearance issues found when using the topre stabiliser). When going down this route you have a few options:
 
 1. Get a plate laser cut to reduce costs and tap the threads yourself - this can be quite difficult and be prepared to snap a few taps. You will also have to adjust the plate file to get the correct size holes ready for tapping. 
@@ -69,6 +71,9 @@ This method makes use of a threaded standoff to secure the plate and pcb togethe
 5. Get a plate laser cut then place 10mm M2.5 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2.5 nuts on the back of the PCB.
 - This method is ideal as aluminium threads can be weak so it avoids the risk of stripping the expensive plate. 
   - This method is also much cheaper than a threaded plate and easier than any of the standoff options. 
+
+
+
 
 #### <ins>Screw Types</ins>
 
