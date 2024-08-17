@@ -111,7 +111,7 @@ Each round of PCBs will be inspired by a different vehicle
    1982-1989. The plates were also designed with this in mind, leaving a cutout above the arrow cluster to view the '944' silkscreen. 
 
 - The PCB is 1.6mm and fully configurable in VIA.
-
+- Screw hole diameter: 2.8mm
 
 ### <ins>Compatibility</ins>
 
