@@ -4,7 +4,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 ![IMG_2808](https://github.com/user-attachments/assets/9e066c7a-82b2-49ed-8bcd-200b5d8ff9b1)
 
 
- Build Specs: 
+### Build Specs: 
  
 - Burgundy F13 WKL Frog TKL
 - SwedeEC8X PCB
