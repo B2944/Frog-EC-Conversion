@@ -48,7 +48,8 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 > [!NOTE]
 > Ordering your own plates can be rather expensive per unit when doing a small order, so I will be hosting a group order soon after these PCBs launch.
 
-![image123123](https://github.com/user-attachments/assets/bb7634ae-6d97-4f5b-9afd-5123a0806f9a)
+![Screenshot 2024-09-02 095154](https://github.com/user-attachments/assets/a6189bc2-dcaf-4bd1-b67b-103ec98cda5d)
+
 
 - However, if you are sure you want to get your own made then simply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram (beware that there are two options, one which uses standard topre stabilisers and one that uses MX stabilisers for the spacebar to avoid the clearance issues found when using the topre stabiliser). When going down this route you have a few options:
 
