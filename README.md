@@ -20,7 +20,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 
 ## Build Guide (Pictures coming soon once I get my prototype 300px*) 
-1. Place the tadpole mounts into the plate (preferably 90A too increase firmness, to prevent the PCB bottoming out. 
+1. Place the tadpole mounts into the plate (preferably 90A too increase firmness, to prevent the PCB bottoming out)
 2. Click the 1U and 2U Housings into the plate. Next up is this spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance, you will also have to cut the housing above with flush cutters to make room for the flipped spacebar housings and wire if using a plate with a topre stabiliser cutout. If you opted for the MX plate then you can simply clip in your plate mount stabiliser housings and wire. 
 3. Push the sliders into the 1U Housings. 
 4. Place the domes into the housings. 
@@ -62,11 +62,11 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
    ![spacer](https://github.com/user-attachments/assets/d952f776-e6ce-4dbc-87da-03020e05d7bc)
 
-This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A standoff 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (Change info to M1.6 screws and standoffs once I test. Need to change plate holes to 2.5 or something smaller to accomadate this) (PCB hole is 2.5mm so its fine)
+This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A standoff 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (Change info to M1.6 screws and standoffs once I test. **This will require plate holes to be adjusted for smaller screws as M2.5 screws have clearance issues inbetween the housings. 
 
  - For this method you will need:
-   - M2.5 Threaded Standoff spacers
-   - M2.5 Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
+   - Threaded Standoff spacers
+   - Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
 
 5. Get a plate laser cut then place 10mm M2.5 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2.5 nuts on the back of the PCB.
 - This method is ideal as aluminium threads can be weak so it avoids the risk of stripping the expensive plate. 
@@ -96,13 +96,14 @@ When choosing a screw for an EC conversion, you must take into account the amoun
 
 ## Tasks left to complete 
 - [X] Supporting plates for all Frog TKL Layouts (F12 and F13) 
-- [ ] Implement o-ring cutouts for next batch to allow support of all H87/H88 TKLs. (This may not be possible due to the size of the topre housings)
+- [ ] Implement o-ring cutouts for next batch to allow support of all H87/H88 TKLs.
+- [ ] Integrated o-ring Plates
 - [ ] Increase PCB support for more boards by converting plates to Topre.
 - [ ] Host groupbuy for Frog TKL Plates. DM me on Discord if you would be interested (swede.)
 
 # PCB Design and Compatibility
 
-- I was heavily inspired after discovering Decoys reddit post on their F12 Frog TKL conversion, however once I contacted them to gain a better understanding of the conversion I realised that there was no readily available EC PCB that supported F13 layouts. This lead to the commissioning of the EC8X and the adjusting of the MX Plate file to convert it to Topre by using CIPs plate generator to calculate the spacings. 
+- I was heavily inspired after discovering Decoys reddit post on their F12 Frog TKL conversion, however once I contacted them to gain a better understanding of the conversion I realised that there was no readily available EC PCB that supported F13 layouts. This lead to the commissioning of the EC8X and the adjusting of the MX Plate file to convert it to accomodate topre housings by using CIPs plate generator to calculate the spacings. 
   
 Each round of PCBs will be inspired by a different vehicle
 
@@ -115,7 +116,7 @@ Each round of PCBs will be inspired by a different vehicle
 
 ### <ins>Compatibility</ins>
 
-- This PCB should work with most TKLs, which do not require O-ring cutouts on the PCB for mounting and also use top mount USB C on the PCB, however I hope to put out a more thorough compatibility list soon. This is something that is being looked at for Round 2, if anything changes I will update this repo. 
+- This PCB should work with most TKLs, which do not require O-ring cutouts on the PCB for mounting and also use top mount USB C on the PCB, however I hope to put out a more thorough compatibility list soon. Compatibility for o-ring mount TKLs is in development in the form of an integrated o-ring plate.
 
 
 > [!CAUTION]
