@@ -12,9 +12,9 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 - YMDK Housings
 - KLC Playground MX Sliders
 - YMDK 2U Assemblies and 7U Assembly 
-- 3mm Silencing Rings
-- Realforce R1 45g Domes
-- Realforce Conical Springs
+- 0.3mm Silencing Rings
+- HHKB Hybrid 45g Domes
+- HHKB Conical Springs
 - DCX WoB
 
 
