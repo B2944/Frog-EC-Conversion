@@ -11,7 +11,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 - Topre converted Alu 5202 1.2mm plate
 - YMDK Housings
 - KLC Playground MX Sliders
-- YMDK 2U Assemblies and 7U Assembly 
+- YMDK 2U Assemblies and 7U Assembly (Lubed with Krytox 206g2)
 - 0.3mm Silencing Rings
 - HHKB Hybrid 45g Domes
 - HHKB Conical Springs
