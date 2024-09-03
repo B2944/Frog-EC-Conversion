@@ -53,6 +53,7 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
 
 - However, if you are sure you want to get your own made then simply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram (beware that there are two options, one which uses standard topre stabilisers and one that uses MX stabilisers for the spacebar to avoid the clearance issues found when using the topre stabiliser). When going down this route you have a few options:
 
+
 1. Get a plate laser cut to reduce costs and tap the threads yourself - this can be quite difficult and be prepared to snap a few taps. You will also have to adjust the plate file to get the correct size holes ready for tapping. 
 
 2. Get a plate manufactured with threaded holes, this will increase the cost but will ensure that the plate is properly threaded to avoid hiccups in the build process.
@@ -64,13 +65,13 @@ Documentation of the Geonworks Frog TKL EC Conversion. This kit can be found in 
    ![spacer](https://github.com/user-attachments/assets/d952f776-e6ce-4dbc-87da-03020e05d7bc)
 
 This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A standoff 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (Change info to M1.6 screws and standoffs once I test. **This will require plate holes to be adjusted for smaller screws as M2.5 screws have clearance issues inbetween the housings. 
-
  - For this method you will need:
+
    - Threaded Standoff spacers
    - Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
 
 5. Get a plate laser cut then place 10mm M2.5 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2.5 nuts on the back of the PCB.
-- This method is ideal as aluminium threads can be weak so it avoids the risk of stripping the expensive plate. 
+  - This method is ideal as aluminium threads can be weak so it avoids the risk of stripping the expensive plate. 
   - This method is also much cheaper than a threaded plate and easier than any of the standoff options. 
 
 
