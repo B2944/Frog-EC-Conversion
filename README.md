@@ -5,7 +5,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 ![file (1)](https://github.com/user-attachments/assets/ea1c6eea-79ba-4aea-842e-181f70268325)
 
 
-### Build Specs: 
+### <ins>Build Specs:</ins> 
  
 - Burgundy F13 WKL Frog TKL
 - SwedeEC8X PCB
@@ -17,6 +17,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 - HHKB Hybrid 45g Domes
 - HHKB Conical Springs
 - DCX WoB
+
 
 
 
