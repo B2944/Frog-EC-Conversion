@@ -66,7 +66,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 
    ![spacer](https://github.com/user-attachments/assets/d952f776-e6ce-4dbc-87da-03020e05d7bc)
 
-This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A standoff 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (Change info to M1.6 screws and standoffs once I test. **This will require plate holes to be adjusted for smaller screws as M2.5 screws have clearance issues inbetween the housings. 
+This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (Change info to M1.6 screws and standoffs once I test. **This will require plate holes to be adjusted for smaller screws as M2.5 screws have clearance issues inbetween the housings. 
  - For this method you will need:
 
    - Threaded Standoff spacers
