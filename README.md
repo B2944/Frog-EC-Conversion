@@ -65,7 +65,7 @@ This method will increase manufacturing costs but will ensure that the plate is 
 
 ### 3. Laser cut plate with threaded standoffs
 
-Get a plate laser cut then expoy some M1.6 brass standoffs into the holes - this may mean that you havr to adjust the plate files to meet the sizing for the screws to thread into the M1.6 standoffs. This will also result in you requiring shorter screws. 
+Get a plate laser cut then expoy some M1.6 brass standoffs into the holes - you will need to adjust the plate holes to better match the top of your standoffs to ensure a secure fitment. M1.6 standoffs are advised as they have enough clearance between the housings. 
  
 ### 4. Laser cut plate with threaded spacers
 
