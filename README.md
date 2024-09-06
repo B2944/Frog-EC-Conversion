@@ -53,33 +53,40 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 ![Screenshot 2024-09-02 095154](https://github.com/user-attachments/assets/a6189bc2-dcaf-4bd1-b67b-103ec98cda5d)
 
 
-- However, if you are sure you want to get your own made then simply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram (beware that there are two options, one which uses standard topre stabilisers and one that uses MX stabilisers for the spacebar to avoid the clearance issues found when using the topre stabiliser). When going down this route you have a few options:
+However, if you are sure you want to get your own made then simply download the plate file for your desired layout from the [plate files](https://github.com/B2944/Frog-EC-Conversion/tree/main/Plate%20Files) folder along with the drawing diagram (beware that there are two options, one which uses standard topre stabilisers and one that uses MX stabilisers for the spacebar to avoid the clearance issues found when using the topre stabiliser). When going down this route you have a few options:
 
+### 1. Get a plate laser cut
 
-1. Get a plate laser cut to reduce costs and tap the threads yourself - this can be quite difficult and be prepared to snap a few taps. You will also have to adjust the plate file to get the correct size holes ready for tapping. 
+This method requires you to tap your own holes with an M2.5 Thread Tap. You will also have to adjust the plate files screw hole diameter to around 2mm to leave material for the tapping process. 
 
-2. Get a plate manufactured with threaded holes, this will increase the cost but will ensure that the plate is properly threaded to avoid hiccups in the build process.
+### 2. Get a plate manufactured with threaded holes
 
-3. Get a plate laser cut then epoxy some M2.5 brass standoffs into the holes - this may mean that you have to adjust the plate files to meet the sizing for your standoffs. This will also result in you requiring shorter screws.
+This method will increase manufacturing costs but will ensure that the plate is properly threaded to avoid hiccups in the build process.
 
-4. You can make use of threaded spaces as shown in the example pic from the plato plate guide.
+### 3. Laser cut plate with threaded standoffs
+
+Get a plate laser cut then expoy some M1.6 brass standoffs into the holes - this may mean that you havr to adjust the plate files to meet the sizing for the screws to thread into the M1.6 standoffs. This will also result in you requiring shorter screws. 
+ 
+### 4. Laser cut plate with threaded spacers
 
    ![spacer](https://github.com/user-attachments/assets/d952f776-e6ce-4dbc-87da-03020e05d7bc)
 
 This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (Change info to M1.6 screws and standoffs once I test. **This will require plate holes to be adjusted for smaller screws as M2.5 screws have clearance issues inbetween the housings. 
- - For this method you will need:
 
+For this method you will need:
    - Threaded Standoff spacers
    - Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
 
-5. Get a plate laser cut then place 10mm M2.5 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2.5 nuts on the back of the PCB.
-  - This method is ideal as aluminium threads can be weak so it avoids the risk of stripping the expensive plate. 
+### 5. Laser cut plate with screws and nuts
+
+Get a plate laser cut then place 10mm M2.5 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2.5 nuts on the back of the PCB.
+  - This method is ideal as aluminium threads can be weak so it avoids the risk of stripping an expensive plate. 
   - This method is also much cheaper than a threaded plate and easier than any of the standoff options. 
 
 
 
 
-#### <ins>Screw Types</ins>
+### <ins>Screw Types</ins>
 
 When choosing a screw for an EC conversion, you must take into account the amount of clearance underneath the PCB in the case. For this conversion of the Frog, there is not much room so we must opt for the waferhead/flad head style of screw to maximise clearance to avoid the pcb touching the base of the case. 
 
