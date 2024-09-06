@@ -117,7 +117,7 @@ When choosing a screw for an EC conversion, you must take into account the amoun
 
 - I was heavily inspired after discovering Decoys reddit post on their F12 Frog TKL conversion, however once I contacted them to gain a better understanding of the conversion I realised that there was no readily available EC PCB that supported F13 layouts. This lead to the commissioning of the EC8X and the adjusting of the MX Plate file to convert it to accomodate topre housings by using CIPs plate generator to calculate the spacings. 
   
-Each round of PCBs will be inspired by a different vehicle
+Each round of PCBs will be inspired by a different vehicle. Once this batch is sold through I will post an interest check to gauge an idea of how many to order for round 2. 
 
 1. <code>Porsche 944</code>
    - Limited to 16 units. 15 USB C and 1 JST Variant. This round features a '944' lettering silkscreen above the nav cluster and a complimentary silkscreen on the back of the PCB of the NA 2.5L inline 4 found in the Porsche 944 and 944 S throughout production during 
