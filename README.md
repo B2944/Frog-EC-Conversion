@@ -74,8 +74,8 @@ Get a plate laser cut then expoy some M1.6 brass standoffs into the holes - this
 This method makes use of a threaded standoff to secure the plate and pcb together using 2 screws, one from above the plate and one below the pcb, the benefit of this is that you can use softer plates like POM or PC which can not be easily threaded. A 4mm standoff is required in order to fit them in between the switch housing without clearance issues. This method makes use of more hardware, but also reduces plate manu costs as you now only require a simple laser cut plate. (Change info to M1.6 screws and standoffs once I test. **This will require plate holes to be adjusted for smaller screws as M2.5 screws have clearance issues inbetween the housings. 
 
 For this method you will need:
-   - Threaded Standoff spacers
-   - Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
+   - M1.6 Threaded Standoff spacers
+   - M1.6 Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
 
 ### 5. Laser cut plate with screws and nuts
 
