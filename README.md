@@ -61,7 +61,7 @@ This method requires you to tap your own holes with an M2.5 Thread Tap. You will
 
 ### 2. Get a plate manufactured with threaded holes
 
-This method will increase manufacturing costs but will ensure that the plate is properly threaded to avoid hiccups in the build process.
+This method will increase manufacturing costs but will ensure that the plate is properly threaded to avoid hiccups in the build process. Make sure to supply your manufacturer with the drawing diagram to ensure they understand the thread specs. 
 
 ### 3. Laser cut plate with threaded standoffs
 
