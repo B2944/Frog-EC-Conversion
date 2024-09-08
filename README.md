@@ -109,6 +109,7 @@ When choosing a screw for an EC conversion, you must take into account the amoun
 - [X] Supporting plates for all Frog TKL Layouts (F12 and F13) 
 - [ ] Implement o-ring cutouts for next batch to allow support of all H87/H88 TKLs.
 - [ ] Integrated o-ring Plates
+- [ ] Supporting plates for Matrix 8XV 
 - [ ] Frog TKL Integrated Plates
 - [ ] Increase PCB support for more boards by converting plates to Topre.
 - [ ] Host groupbuy for Frog TKL Plates. DM me on Discord if you would be interested (swede.)
