@@ -23,7 +23,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 
 ## Build Guide (Pictures coming soon once I get my prototype 300px*) 
 1. Place the tadpole mounts into the plate (preferably 90A too increase firmness, to prevent the PCB bottoming out)
-2. Click the 1U and 2U Housings into the plate. Next up is this spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance, you will also have to cut the housing above with flush cutters to make room for the flipped spacebar housings and wire if using a plate with a topre stabiliser cutout. If you opted for the MX plate then you can simply clip in your plate mount stabiliser housings and wire. 
+2. Click the 1U and 2U Housings into the plate except for the ones missing as shown. Next up is the spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance, you will also have to cut the housing above with flush cutters to make room for the flipped spacebar housings and wire if using a plate with a topre stabiliser cutout. If you opted for the MX plate then you can simply clip in your plate mount stabiliser housings and wire. 
 3. Push the sliders into the 1U Housings. 
 4. Place the domes into the housings. 
 5. Place the conical springs in the domes (make sure non are stacked as this causes issues). (You can gently drop the springs that are stacked onto your desk to get them separate easier)
