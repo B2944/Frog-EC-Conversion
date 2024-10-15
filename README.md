@@ -1,4 +1,4 @@
-## Geonworks Frog TKL EC Conversion using the SwedeEC8X
+## Geonworks Frog TKL EC Conversion using the EC8X
 Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can be found in stock on [ThoccExchange](https://thoccexchange.com) or purchased directly from me via Discord.
 
 
@@ -8,7 +8,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 ### <ins>Build Specs:</ins> 
  
 - Burgundy F13 WKL Frog TKL
-- SwedeEC8X PCB
+- EC8X PCB
 - Topre converted Alu 5202 1.2mm plate
 - YMDK Housings
 - KLC Playground MX Sliders
