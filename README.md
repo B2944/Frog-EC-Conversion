@@ -16,6 +16,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 - 0.5mm ThockRings
 - Novatouch 45g Domes
 - Novatouch Springs
+
 - DCX WoB
 
 
@@ -62,6 +63,10 @@ This method requires you to tap your own holes with an M2.5 Thread Tap. You will
 ### 2. Get a plate manufactured with threaded holes
 
 This method will increase manufacturing costs but will ensure that the plate is properly threaded to avoid hiccups in the build process. Make sure to supply your manufacturer with the drawing diagram to ensure they understand the thread specs. 
+
+![mounting-screws](https://github.com/user-attachments/assets/05f09f0e-6bf5-4c0d-9a42-7ac30a1b972f)
+
+
 
 ### 3. Laser cut plate with threaded standoffs
 
