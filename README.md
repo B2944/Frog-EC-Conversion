@@ -66,13 +66,7 @@ This method will increase manufacturing costs but will ensure that the plate is 
 
 ![mounting-screws](https://github.com/user-attachments/assets/05f09f0e-6bf5-4c0d-9a42-7ac30a1b972f)
 
-
-
-### 3. Laser cut plate with threaded standoffs
-
-Get a plate laser cut then expoy some M1.6 brass standoffs into the holes - you will need to adjust the plate holes to better match the top of your standoffs to ensure a secure fitment. M1.6 standoffs are advised as they have enough clearance between the housings. 
- 
-### 4. Laser cut plate with threaded spacers
+### 3. Laser cut plate with threaded spacers
 
    ![spacer](https://github.com/user-attachments/assets/d952f776-e6ce-4dbc-87da-03020e05d7bc)
 
@@ -82,7 +76,7 @@ For this method you will need:
    - M1.6 Threaded Standoff spacers
    - M1.6 Waferhead Screws 3mm and 4mm (3mm through plate, 4mm through pcb)
 
-### 5. Laser cut plate with screws and nuts
+### 4. Laser cut plate with screws and nuts
 
 Get a plate laser cut then place 10mm M2 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2 nuts on the back of the PCB.
   - This method is ideal as aluminium threads can be weak so it avoids the risk of stripping an expensive plate. 
