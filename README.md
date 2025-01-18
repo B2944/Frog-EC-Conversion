@@ -84,7 +84,7 @@ For this method you will need:
 
 ### 5. Laser cut plate with screws and nuts
 
-Get a plate laser cut then place 10mm M2.5 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2.5 nuts on the back of the PCB.
+Get a plate laser cut then place 10mm M2 Waferhead screws through the top of the plate through to the PCB, then tighten some low profile M2 nuts on the back of the PCB.
   - This method is ideal as aluminium threads can be weak so it avoids the risk of stripping an expensive plate. 
   - This method is also much cheaper than a threaded plate and easier than any of the standoff options. 
 
