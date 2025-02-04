@@ -132,7 +132,7 @@ Each round of PCBs will be inspired by a different vehicle. Once this batch is s
 
 
 > [!CAUTION]
-> **This PCB will not work with TKLs which require o-ring cutouts (others have cut housings to make clearance for the cutouts, which seems to work)**
+> **This PCB will not work with TKLs which require o-ring cutouts**
 
 ## Sound Test
    
