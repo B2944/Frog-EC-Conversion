@@ -101,8 +101,10 @@ When choosing a screw for an EC conversion, you must take into account the amoun
 
 ## VIA
 
-- Whilst waiting for the Firmware to be pushed to the main branch of VIA so the PCB is automatically recognised, you can use this [VIA](https://app-6w4.pages.dev) link.
+- Whilst waiting for the Firmware to be pushed to the main branch of VIA so the PCB is automatically recognised, you can use this [VIA](https://app-6w4.pages.dev) link. You could also enable the design tab in via settings and upload this [JSON](https://github.com/user-attachments/files/19264844/8X.EC-A0-875.json).
 - If you find yourself having issues with the firmware, please message me on Discord or open an issue on here.
+
+
 
 ## Tasks left to complete 
 - [X] Supporting plates for all Frog TKL Layouts (F12 and F13) 
