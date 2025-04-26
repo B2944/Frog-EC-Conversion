@@ -22,18 +22,24 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 
 
 
-## Build Guide (Pictures coming soon once I get my prototype 300px*) 
-1. Place the tadpole mounts into the plate (preferably 90A to increase firmness, to prevent the PCB bottoming out)
-2. Click the 1U and 2U Housings into the plate except for the ones missing as shown. Next up is the spacebar assembly, this will need to be flipped as shown in the picture to maximise clearance, you will also have to cut the housing above with flush cutters to make room for the flipped spacebar housings and wire.
-3. Push the sliders into the 1U Housings. 
-4. Place the domes into the housings. 
-5. Place the conical springs in the domes (make sure non are stacked as this causes issues). (You can gently drop the springs that are stacked onto your desk to get them separate easier)
-6. Place the pcb onto the back of the plate.
-7. Place the provided Waferhead M2.5 8mm Screws into the pcb and tighten into the threaded holes found on the plate. 
+## Build Guide
+1. Thread the standoffs into the plate using the smaller screws out of the two packs.
+2. Put the spacebar housing into the plate with the bar facing upwards towards the f row. 
+3. Click the 1U housings into the plate except for the ones that are positioned above the space bar stabiliser. 
+4. Cut the 1U housings that will fill this area like so:
+
+![IMG_3143](https://github.com/user-attachments/assets/0c59c766-f6a1-470c-9466-459cfde8fff3)
+
+6. Push the sliders into the housings. 
+7. Place the domes into the housings. 
+8. Place the conical springs in the domes (make sure non are stacked as this causes issues). (You can gently drop the springs that are stacked onto your desk to get them separate easier)
+9. Place the pcb onto the back of the plate.
+10. Screw the pcb and plate together using the bigger screws out of the two packs.
+11. Put the tadpoles into the plate, preferably the 90A tadpoles to reduce the chances of bottoming out. 
 
 
 ## Parts required for the conversion
-- Domes, EC Springs, Sliders (Topre Stem or MX), Housings, EC8X PCB, Supported Plate, M2.5 8mm Waferhead Screws. 
+- Domes, EC Springs, Sliders (Topre Stem or MX), Housings, EC8X PCB, Supported Plate, M2.5 8mm Waferhead Screws // M1.6x3, M1.6x4 + M1.6 Standoffs. 
 
   - Domes, EC Springs, MX Sliders and housings can be sourced aftermarket from online vendors such as [Deskeys](https://deskeys.io), [KLC Playground](https://klc-playground.com/products/instock-ec-kits-and-packs?_pos=1&_sid=c27f2fce2&_ss=r&variant=42124616171726) and 
   [ThoccExchange](thoccexchange.com)
