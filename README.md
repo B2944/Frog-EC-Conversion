@@ -25,7 +25,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 
 
 ## Build Guide
-1. Thread the standoffs into the plate using the smaller screws out of the two packs.
+1. Thread the standoffs into the plate using the smaller screws out of the two packs. (Not needed if your plate is from the threaded batch) 
 2. Put the spacebar housing into the plate with the bar facing upwards towards the f row. 
 3. Click the 1U housings into the plate except for the ones that are positioned above the space bar stabiliser. 
 4. Cut the 1U housings that will fill this area like so:
@@ -36,7 +36,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 7. Place the domes into the housings. 
 8. Place the conical springs in the domes (make sure non are stacked as this causes issues). (You can gently drop the springs that are stacked onto your desk to get them separate easier)
 9. Place the pcb onto the back of the plate.
-10. Screw the pcb and plate together using the bigger screws out of the two packs.
+10. Screw the pcb and plate together using the bigger screws out of the two packs. (or using the M2.5x8mm if your plate is from the threaded batch). 
 11. Put the tadpoles into the plate, preferably the 90A tadpoles to reduce the chances of bottoming out. 
 
 
