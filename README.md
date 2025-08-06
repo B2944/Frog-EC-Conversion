@@ -4,6 +4,8 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 
 ![file (1)](https://github.com/user-attachments/assets/ea1c6eea-79ba-4aea-842e-181f70268325)
 
+![IMG_3148](https://github.com/user-attachments/assets/645e47be-70f8-46c4-8307-ffa1fb1824cd)
+
 
 ### <ins>Build Specs:</ins> 
  
