@@ -16,7 +16,7 @@ Documentation of the Geonworks Frog TKL EC Conversion and EC8X PCB. This PCB can
 - KLC Playground MX Sliders
 - YMDK 2U Assemblies and 7U Assembly (Lubed with Krytox 206g2)
 - 0.5mm ThockRings
-- Novatouch 45g Domes
+- Metakeebs 45g Domes 
 - Novatouch Springs
 
 - DCX WoB
