@@ -143,5 +143,7 @@ Each round of PCBs will be inspired by a different vehicle. Once this batch is s
 > **This PCB will not work with TKLs which require o-ring cutouts**
 
 ## Sound Test
-   
-![soundtest]("Place MP3 File here")
+https://github.com/user-attachments/assets/a239d422-3148-4d07-928c-a3f391c110ee
+
+
+
